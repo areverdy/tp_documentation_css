@@ -1,0 +1,21 @@
+.left {
+    overflow-y: scroll;
+    height: 100%;
+    background-color: bisque;
+}
+.principal{
+    height: 100%;
+}
+.secondaire{
+    height: 100%;
+}
+body{
+    height: 100%;
+}
+html{
+    height: 100%;
+}
+
+.ol li{
+    color: red;
+}
